@@ -72,7 +72,8 @@ Hello Dave,
 
 How are you both? I hope this letter finds you well. Although it's such a short time since we last saw each other, 
 it feels much longer. Thank you so much for your invitation. It's realy a generous offer to put me at your place in Tokyo.
-I'd really like to come and it's very kind of youbut unfortunately I won't be able to make it due to my hectic work schedule.
+I'd really like to come and it's very kind of youbut unfortunately I won't be able to make it due to my hectic work schedule
+and also overwhelmed with online exams.
 
 I've just started a new teaching job, and I've been working around the clock. It's been intense! I don't mean to complain; 
 I've been enjoying it immensely and the school I'm working at is actually our old high school, which has been a lot of fun. 
