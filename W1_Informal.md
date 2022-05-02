@@ -1,3 +1,19 @@
+```
+Template
+
+Hello John,
+How are you? I hope you're wife Amy and daughter Jasmine are doing great too. Although, it's such a short time since we last saw 
+each other, it feels much longer. I can't believe it's already been 2 years since our last vacation together! I have been really overwhelmed
+with my work. I've just started a new business, and I've been working around the clock. It's been intense! I don't mean to complain; 
+I've been enjoying it immensely and there is a huge turnover every month.
+
+
+
+```
+
+
+
+
 
 ```
 Q
