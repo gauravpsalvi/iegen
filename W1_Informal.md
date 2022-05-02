@@ -3,7 +3,8 @@ Template
 
 Hello John,
 //First
-Hope you are doing well and are in the best of spirits? Although, it's such a short time since we last saw each other, it feels much longer. 
+Hope you are doing well and are in the best of spirits? Although, it's such a short time since we last saw each other, 
+it feels much longer. 
 I'm filled with glee whenever I think about the time we spent together! Our photos just brought it all back to me so vividly.
 Let's meet anytime soon, if possible. Anyways,I am writing this letter to share a recent experience ___. 
 Since a few weeks,___. Thus, I wanted to tell you about my __.
