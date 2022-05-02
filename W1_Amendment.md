@@ -13,7 +13,7 @@ From there, it focuses on his work with the UN.
 I would like to point out an error in your article. Documentation shows that Sir David did not go directly from Edinburgh 
 to the University of Durham, in 1961. In fact he took a gap year in Europe working with a volunteer program and then went to 
 University in 1962. I know this as I worked with a volunteer program and then went to University in 1962.
-I know this as I worked with him in Europe and become friends with him. His year abroad, which is absent from our article, 
+I know this as I worked with him in Europe and became friends with him. His year abroad, which is absent from our article, 
 created the foundation of his philosophy of life which guided him through his work in last years.
 
 I hope you will publish this correction in the newspaper. 
@@ -21,6 +21,6 @@ Sir David's work is still of immense importance and people should know the impor
 
 Looking forward to a positive reply.
 
-Yours sincerely,
+Yours faithfully,
 Rebecca Moses Dmello
 ```
