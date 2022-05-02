@@ -20,7 +20,7 @@ On Tuesday, 12th June, I visited your store to purchase a TV. I bought a Toshiba
 40L675B40. On purchasing this TV, I was assured that this was the latest model and the best there was to buy.
 However, when I got home I discovered that not only did the remote controls wasn't working but also 
 the quality of the picture was not as good as promised, in fact it was quite blurry. I called your customer
-service department immediately on Tueday and they assured me that my TVwould be replaced or fixed within two days. 
+service department immediately on Tueday and they assured me that my TV would be replaced or fixed within two days. 
 I am disappointed to say that this has not happened and I have received no communication since then.
 
 I am exceedingly displeased with both the quality of the product I purchased from your company as well as the 
@@ -33,3 +33,12 @@ Your faithfully,
 
 Miss R M Dmello
 ```
+
+Alternative Statements
+- Last week I bought a TV from your store but from the very first day it did not work properly.
+- I have called the customer service department several times but I was either put on hold for over 30 minutes or they put 
+  the phone down on me. This is completely unacceptable.
+- I requested that the store manager find a solution for the TV and he told me that he would send a technician to fix the problem.
+  However, he failed to do this and I have been waiting for over one week now with no positive outcome.
+- I am exceedingly disappointed with the customer services that your company provides.
+- I expect someone from your company to fix this problem or replace the current TV within one to two days.
