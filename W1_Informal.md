@@ -2,11 +2,24 @@
 Template
 
 Hello John,
+//First
 How are you? I hope you're wife Amy and daughter Jasmine are doing great too. Although, it's such a short time since we last saw 
-each other, it feels much longer. I can't believe it's already been 2 years since our last vacation together! I have been really overwhelmed
-with my work. I've just started a new business, and I've been working around the clock. It's been intense! I don't mean to complain; 
+each other, it feels much longer. I can't believe it's already been 2 years since our last vacation together! such a memorable holiday and 
+the lovely photos!It just brought it all back  to me so vividly. I have recently been really overwhelmed with my work. 
+I've just started a new business, and I've been working around the clock. It's been intense! I don't mean to complain; 
 I've been enjoying it immensely and there is a huge turnover every month.
 
+//Mid--
+
+//Last
+Next month, we'll be celebrating our Wedding Anniversary and we'd be delighted if you could come over to celebrate it with us. 
+It'be a chance for your to meet the rest of the family and see a bit of England. Of course, you must stay with us.
+There's plenty of room and we'll pick you up at the airport. I really hope you can make it.
+
+Take care and write back soon.
+
+Your friend,
+Rebecca 
 
 
 ```
@@ -37,7 +50,7 @@ left pending before my trip. Also, my youngest son John, is transferring to a ne
 the Lockwood private Institute. I am very proud of him but I've been running around trying to complete his transfer in time for the 
 new school year since his father's been on a business trip for the past couple of weeks.
 
-Next month, we'll be celebrating our Weding Anniversary and we'd be delighted if you could come over to celebrate it with us. 
+Next month, we'll be celebrating our Wedding Anniversary and we'd be delighted if you could come over to celebrate it with us. 
 It'be a chance for your to meet the rest of the family and see a bit of England. Of course, you must stay with us.
 There's plenty of room and we'll pick you up at the airport. I really hope you can make it.
 
