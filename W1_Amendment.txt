@@ -1,6 +1,7 @@
 
 Amendment is minor change or addition designed to improve a text, piece of legislation
 
+//
 Dear Sir,
 
 I am writing to you regarding the recent article you published about Sir David Markham last week, April 2nd, in the Times newspaper.
@@ -16,3 +17,4 @@ Looking forward to a positive reply.
 
 Yours sincerely,
 Rebecca Moses Dmello
+//
