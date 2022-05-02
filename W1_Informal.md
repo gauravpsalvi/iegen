@@ -29,6 +29,7 @@ There's plenty of room and we'll pick you up at the airport. I really hope you c
 
 Take care and write back soon.
 
+Your friend,
 Rebecca 
 
 ```
@@ -58,6 +59,7 @@ I really hope you'll be able to come over. It won't be the same without you.
 
 Take care and write back soon.
 
+Your friend,
 Rebecca 
 ```
 
@@ -89,5 +91,6 @@ I can't wait to hear from you.
 
 Take care and write back soon.
 
+Your friend,
 Rebecca 
 ```
