@@ -51,7 +51,6 @@ and a chance to cook your own food on the fire, which I'm sure you'll love.
 
 While you're over, we'll be able to do a trip to London as I know you've always wanted to visit. The Chritsmas lights will have 
 been switched on by then and they are amazing. You'll also be able to visit the Chritmas markets and do all your Christmas shopping.
-
 I really hope you'll be able to come over. It won't be the same without you.
 
 Take care and write back soon.
@@ -81,7 +80,6 @@ Do you remember Mrs Brown? She's actually my supervisor!
 
 Could you let me know of another time I can visit? Because of the school holidays I'll be free in the new year and
 I'll also be free in winter so if you're available then, I'd certainly love to escape the cold to visit you.
-
 I can't wait to hear from you.
 
 Take care and write back soon.
