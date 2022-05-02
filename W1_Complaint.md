@@ -33,6 +33,31 @@ Your faithfully,
 
 Miss R M Dmello
 ```
+```
+Q - College student complaining about accomodation
+-> describe the situation
+-> explain your problems and why it is diificult to work
+-> say what kind of accomodation you would prefer
+
+Dear Sir or Madam,
+
+I am writing to let you know that I am unhappy with my current living conditions. While the accommodation itself is fine,
+my housemate has become intolerable making it almost impossible for me to work. I hope you will consider my situation favourably.
+
+Let me explain my situation. The trouble started about three months ago when my housemate first moved in. 
+Prior to that, everything was fine; my old housemate was extremely considerate. My current housemate, however, 
+stays up almost all night and plays incessantly loud music. As such, I have not been able to sleeep properly and therefore
+cannot concentrate on my studies.
+
+Would you kindly transfer me or my housemate to another room? I would much prefer to live with someone who is quiter and 
+more considerate of others. As long as it is quiet, I don't mind whom I live with.
+
+Thank you for your consideration.
+
+Yours faithfully,
+Rebecca
+
+```
 
 Alternative Statements
 - Last week I bought a TV from your store but from the very first day it did not work properly.
