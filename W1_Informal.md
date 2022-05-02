@@ -1,7 +1,7 @@
 ```
 Template
 
-Hello John,
+Dear John,
 //First
 Hope you are doing well and are in the best of spirits? Although, it's such a short time since we last saw each other, 
 it feels much longer. 
@@ -22,8 +22,9 @@ It'be a chance for your to meet the rest of the family and see a bit of England.
 There's plenty of room and we'll pick you up at the airport. I really hope you can make it.
 
 Take care and write back soon.
+// Let's meet soon, and I'll provide you more details
 
-Your friend,
+Your lovingly,
 Rebecca 
 
 
