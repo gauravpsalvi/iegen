@@ -32,3 +32,31 @@ Take care and write back soon.
 Rebecca 
 
 ```
+
+```
+Q
+Write a letter to your friend who lives in another country and in your letter:
+- Invite him/her to a public event in your country
+- Describe the public event
+- Explain about other plans you have for your friend when he/she will visit
+
+Hi Dave,
+
+How have you been since we last met?
+
+I though I'd drop you a line and see if you fancy coming over for Bonfire night which is on November 5th.
+
+Bonfire night is a great event in England particularly in my hometown. It starts as soon as the sun has set because
+the event is held around a hude bonfire. As the weather is cold, the bonfire adds wonderful warmth. On the fire, there's 
+a guy which represents Guy Fawkes, a man who once tried to blow up Parliament. On top of that there's also fireworks
+and a chance to cook your own food on the fire, which I'm sure you'll love.
+
+While you're over, we'll be able to do a trip to London as I know you've always wanted to visit. The Chritsmas lights will have 
+been switched on by then and they are amazing. You'll also be able to visit the Chritmas markets and do all your Christmas shopping.
+
+I really hope you'll be able to come over. It won't be the same without you.
+
+Take care and write back soon.
+
+Rebecca 
+```
