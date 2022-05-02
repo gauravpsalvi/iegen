@@ -63,7 +63,8 @@ Rebecca
 
 ```
 Q
-A friend who lives in another country has invited you to come andstay with him/her on your next holiday. You are too busy to accept the invitation.
+A friend who lives in another country has invited you to come andstay with him/her on your next holiday. 
+You are too busy to accept the invitation.
 Write a letter to your friend. In your letter,
 - Thank him/her for the invitation
 - Explain why you cannot come
@@ -74,13 +75,15 @@ Hello Dave,
 How are you both? I hope this letter finds you well. Although it's such a short time since we last saw each other, 
 it feels much longer. 
 
-Thank you so much for your invitation. It's realy a generous offer to put me at your place in Tokyo. I'd really like to come and it's very kind of you
-but unfortunately I won't be able to make it due to my hectic work schedule.
+Thank you so much for your invitation. It's realy a generous offer to put me at your place in Tokyo. I'd really like
+to come and it's very kind of youbut unfortunately I won't be able to make it due to my hectic work schedule.
 
-I've just started a new teaching job, and I've been working around the clock. It's been intense! I don't mean to complain; I've been enjoying it immensely
-and the school I'm working at is actually our old high school, which has been a lot of fun. Do you remember Mrs Brown? She's actually my supervisor!
+I've just started a new teaching job, and I've been working around the clock. It's been intense! I don't mean to complain; 
+I've been enjoying it immensely and the school I'm working at is actually our old high school, which has been a lot of fun. 
+Do you remember Mrs Brown? She's actually my supervisor!
 
-Could you let me know of another time I can visit? Because of the school holidays I'll be free in the new year and I'll also be free in winter so if you're available then, I'd certainly love to escape the cold to visit you.
+Could you let me know of another time I can visit? Because of the school holidays I'll be free in the new year and
+I'll also be free in winter so if you're available then, I'd certainly love to escape the cold to visit you.
 
 I can't wait to hear from you.
 
