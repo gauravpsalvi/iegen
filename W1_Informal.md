@@ -5,6 +5,7 @@ Hello John,
 //First
 How are you? Although, it's such a short time since we last saw each other, it feels much longer. 
 I'm filled with glee whenever I think about the time we spent together! Our photos just brought it all back to me so vividly.
+I am writing to you to share a recent experience with you___. Since a few weeks,___. Thus, I wanted to tell you about my __.
 
 I have recently been really overwhelmed with my work. I've just started a new business, and I've been working around the clock. 
 It's been intense! I don't mean to complain; I've been enjoying it immensely and there is a huge turnover every month.
