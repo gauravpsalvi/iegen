@@ -12,10 +12,8 @@ Write a letter to your friends. In you letter:
 Hi John and Laura,
 
 How are you both? I hope this letter finds you well. Although it's such a short time since we last saw each other, 
-it feels much longer.
-
-Thank you so much not only for such a memorable holiday but also for the lovely photos that you sent of our holiday together. 
-It brought it all back  to me so vividly. Staying with you and seeing where you live was a real eye-opener for me. 
+it feels much longer.Thank you so much not only for such a memorable holiday but also for the lovely photos that you sent of 
+our holiday together. It brought it all back  to me so vividly. Staying with you and seeing where you live was a real eye-opener for me. 
 Australia is cerainly a scenic country with remarkable landscape and wildlife, particularly up in the north where you are.
 
 I know I should've written to you sooner but I've been very busy with work and trying to catch up on assignments that were
@@ -43,9 +41,8 @@ Write a letter to your friend who lives in another country and in your letter:
 
 Hi Dave,
 
-How have you been since we last met?
-
-I though I'd drop you a line and see if you fancy coming over for Bonfire night which is on November 5th.
+How have you been since we last met?I though I'd drop you a line and see if you fancy coming over for Bonfire night
+which is on November 5th.
 
 Bonfire night is a great event in England particularly in my hometown. It starts as soon as the sun has set because
 the event is held around a hude bonfire. As the weather is cold, the bonfire adds wonderful warmth. On the fire, there's 
@@ -75,10 +72,8 @@ Write a letter to your friend. In your letter,
 Hello Dave,
 
 How are you both? I hope this letter finds you well. Although it's such a short time since we last saw each other, 
-it feels much longer. 
-
-Thank you so much for your invitation. It's realy a generous offer to put me at your place in Tokyo. I'd really like
-to come and it's very kind of youbut unfortunately I won't be able to make it due to my hectic work schedule.
+it feels much longer. Thank you so much for your invitation. It's realy a generous offer to put me at your place in Tokyo.
+I'd really like to come and it's very kind of youbut unfortunately I won't be able to make it due to my hectic work schedule.
 
 I've just started a new teaching job, and I've been working around the clock. It's been intense! I don't mean to complain; 
 I've been enjoying it immensely and the school I'm working at is actually our old high school, which has been a lot of fun. 
