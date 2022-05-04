@@ -12,8 +12,8 @@ making it almost impossible for me to _(use/work). I hope you will consider my s
 
 //Para 2 - describe your situation/problem
 Let me explain my situation. The trouble started about __ months ago when _. Prior to that, everything was fine; 
-my old _ was extremely considerate. My current _, however, __(noisy/blurry). As such, I have not been able to 
-sleep and therefore cannot concentrate on my work.
+my old _ was extremely considerate. My current _, however, __(noisy/blurry). As such, I have genuinely not been able
+to sleep and therefore cannot concentrate on my work.
 
 //Customer Service example
 On Tuesday, 12th June, I visited your store to purchase a TV. I bought a Toshiba LED TV which has the code 40L675B40.
