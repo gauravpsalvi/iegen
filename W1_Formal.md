@@ -5,7 +5,7 @@ Dear Sir or Madam.
 
 //Para 1 - describe yourself and why  you are writing
 My name is Rebecca Moses Dmello and I live in woodstock. I have been using your __
-(services and buying your products) for the last 11 years.
+(services and buying your products) for the last 11 years and had a very pleasant experience so far.
 I am writing to let you know that I am unhappy with my ___. 
 while the __(accomodation/packaging) itself is fine, my __(housemate/TV) has become intolerable/faulty 
 making it almost impossible for me to _(use/work). I hope you will consider my situation favourably.
