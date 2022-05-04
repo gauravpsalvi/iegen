@@ -1,5 +1,5 @@
 ```
-Template
+Template - However, Similarly, Although
 
 Dear Sir or Madam.
 
