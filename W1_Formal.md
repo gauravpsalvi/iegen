@@ -6,9 +6,23 @@ Dear Sir or Madam.
 //Para 1 - describe yourself and why  you are writing
 My name is Rebecca Moses Dmello and I live in woodstock. I have been using your __
 (services and buying your products) for the last 11 years and had a very pleasant experience so far.
-I am writing to let you know that I am unhappy with my ___. 
+- I am writing to let you know that I am unhappy with my ___. 
 while the __(accomodation/packaging) itself is fine, my __(housemate/TV) has become intolerable/faulty 
 making it almost impossible for me to _(use/work). I hope you will consider my situation favourably.
+
+- I am writing to bring to your attention an incident that occured in your supermarket last weekend.
+I would also like to make some suggestions so that such a thing does not happen again.
+
+My name is Rebecca and I have been a loyal customer at Walmart ever since I moved into the new westminster area 8 years ago.
+Altough your store is sligtly further from my house than the 7 elevan, I have always made the trip because of your quality 
+fresh produce and excellent customer service.
+
+On this occasion, however, I suffered an unfortunate accident due, I believe, to the negligence of the shop floor staff.
+As I was walking to the checkout with my groceries, I slipped on some spilled water and fell over, spraining my wrist in the process.
+
+Though I understand the store gets very busy, I feel that this fall could have been avoided if the staff had been quicker to act. 
+I would therefore like to suggest that you review your policies around spillages, and , in particular, ensure that staff menbers stand
+guard next to any spilled liquids until they have been cleaned up.
 
 //Para 2 - describe your situation/problem
 Let me explain my situation. The trouble started about __ months ago when _. Prior to that, everything was fine; 
@@ -32,6 +46,7 @@ refund immediately.
 //Looking forward to a positive reply.
 //Thank you for your consideration.
 //I appreciate your assistance in this matter
+//I hope you will take this into account in order to avoid further mishaps
 
 //Yours faithfully,
 //Rebecca
