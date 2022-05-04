@@ -31,6 +31,7 @@ refund immediately.
 //I look forward to hearing back from you immediately.
 //Looking forward to a positive reply.
 //Thank you for your consideration.
+//I appreciate your assistance in this matter
 
 //Yours faithfully,
 //Rebecca
