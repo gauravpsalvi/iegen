@@ -1,14 +1,21 @@
 ```
 Template
 
-//Dear Sir or Madam.
+Dear Sir or Madam.
 
 //Para 1 - describe yourself and why  you are writing
-//My name is Rebecca Moses Dmello and I am one of your frequent customers. I live in woodstock and have been using your
-//services and buying your products for the last 11 years. I am writing this letter to report the faulty TV that I have
-//purchased from your company last week.
+My name is Rebecca Moses Dmello and I live in woodstock. I have been using your __
+(services and buying your products) for the last 11 years.
+I am writing to let you know that I am unhappy with my ___. 
+while the __(accomodation/packaging) itself is fine, my __(housemate/TV) has become intolerable/faulty 
+making it almost impossible for me to _(use/work). I hope you will consider my situation favourably.
 
 //Para 2 - describe your situation/problem
+Let me explain my situation. The trouble started about __ months ago when _. Prior to that, everything was fine; 
+my old _ was extremely considerate. My current _, however, __(noisy/blurry). As such, I have not been able to 
+sleep and therefore cannot concentrate on my work.
+
+//Customer Service example
 On Tuesday, 12th June, I visited your store to purchase a TV. I bought a Toshiba LED TV which has the code 40L675B40.
 On purchasing this TV, I was assured that this was the latest model and the best there was to buy. However, when I got home
 I discovered that not only did the remote controls not work but also the quality of the picture was not as good as promised,
@@ -23,6 +30,7 @@ refund immediately.
 
 //I look forward to hearing back from you immediately.
 //Looking forward to a positive reply.
+//Thank you for your consideration.
 
 //Yours faithfully,
 //Rebecca
