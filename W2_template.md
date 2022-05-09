@@ -32,3 +32,15 @@ the disadvantages. Despite the fact that it may __, the negative impacts would b
 
 4. Problems and Solutions
 
+Many countries of the world are currently experiencing problems caused by rapidly growing populations in urban areas, 
+and both governments and individuals have a duty to find ways to overcome these problems.
+
+//State all problems in 2nd para
+
+//Provide solutions
+In terms of solutions, I believe that government should be largely responsible. Firstly, it is vital that the state provides essential
+housing and heathcare facility for all its citizens. Secondly, setting up community projects to help foster more spirit. For example, clubs 
+or evening classes for teenagers would keep them occupied. Finally, more effective policing of inner city areas would also be beneficial.
+
+Therefore, it is clear that the roblems caused by overpopulation in urban areas are very serious. Yet if governments and individuals
+share a collective responsibility, then it may well become possible to offer some solutions.
