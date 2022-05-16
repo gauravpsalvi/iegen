@@ -1,6 +1,9 @@
-Passport please - This is my passport that I used to register, please take a look.
+Full Name - Good Afternoon, My Name's Rebecca Moses Dmello, You can call me Rebecca!
 
-Full Name - My given name is Rebecca Moses, but please call me Rebecca
+Where are you from? Could you tell me where you come from?
+- I'm from Mumbai which is located in the west coast of India
+
+Passport please - This is my passport that I used to register, please take a look. /// Sure, Here you are
 
 Part 1 - Basic questions about personal self
 1. What do you do for fun
