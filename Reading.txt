@@ -1,0 +1,14 @@
+1. Multiple Choice
+Skim through the passage
+
+2. True, False, Not Given
+--Not Given => Mark directly as not given
+--False => Something relevant
+--True => Complete Match
+
+3. Sentence Completion (Words/Number)
+add the complex word/ similar word next to the key word
+
+4. Summary Completion (Adding word)
+
+
